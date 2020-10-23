@@ -1,6 +1,6 @@
 
 ## 重定向GitHub及配置域名教程
-新建username.github.io仓库及clone下来操作
+新建username.github.io仓库及clone下来操作  
 看具体操作 重定向的话线上处理即可
 
 
